@@ -1,4 +1,4 @@
-{ "Name":"Kondras", 
-"Pets": 3, 
-"Salary": 1500
-} 
+Kondras
+2 кота и собака
+Хочу ЗП в 1500$
+
